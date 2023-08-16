@@ -90,7 +90,7 @@ i {
 
 .main-cart-section .cart-items {
   width: 70%;
-  height: 62rem;
+   height: 18rem;
   /* background: linear-gradient(
     103.49deg,
     #ffffff -28.13%,
@@ -112,8 +112,8 @@ i {
 
 .cart-items-container {
   width: 100%;
-  height: 56rem;
-  
+  height: 11rem;
+  /*  */
 }
 .line{
   border-top: 1px solid black;
